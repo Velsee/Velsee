@@ -10,6 +10,8 @@
 
 ## 🙋‍♂️ About Me
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=velsee&show_icons=true&theme=radical)
+
 🚀 Valeriya Sivokozova
 *Python Developer*  
 Academy of Technical Education - Urban  
@@ -24,6 +26,3 @@ Academy of Technical Education - Urban
 1. Created and maintained technical documentation for a Python application, resulting in a 30% reduction in onboarding time for new team members.
 2. Developed RESTful web services that integrated with a PostgreSQL database, improving application scalability by 40%.
 3. Debugged and troubleshot existing code, identifying and fixing critical bugs that improved application stability by 20%.
-
-
-
